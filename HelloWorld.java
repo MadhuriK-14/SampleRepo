@@ -5,5 +5,9 @@ public class HelloWorld{
 {
  System.out.println("Hello world");
 }
+public void APICall()
+{
+  System.out.println("API Call");
+}
 
 }
